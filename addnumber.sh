@@ -1,3 +1,3 @@
 echo "this is from Git"
-NUMBER= $(($FIRSTNUMBER + $SECONDNUMBER))
+NUMBER=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUMBER"
