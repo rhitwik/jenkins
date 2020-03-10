@@ -1,4 +1,4 @@
 echo "this is from Git"
 NUMBER=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUMBER"
-echo "read successful again 1"
+echo "read successful again 2"
